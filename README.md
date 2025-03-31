@@ -35,7 +35,7 @@ The George Washington University
 - Bachelors of Science- Public Health, minor in Law and Society, August 2020- May 2024 
 
 ## Contact 
-Email: [kaybc2020@gmail.com] (mailto:kaybc2020@gmail.com) 
+Email: [kaybc2020@gmail.com] 
 
 
 
