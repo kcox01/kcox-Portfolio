@@ -1,4 +1,4 @@
-## kcox-portfolio
+![image](https://github.com/user-attachments/assets/dda47bb8-008b-4492-b7a9-0748f3e6499b)## kcox-portfolio
 
 ## About This Portfolio 
 Hello, I'm Kaylin and welcome to my data analytics portfolio! I have a Public Health background and currently, I am on track to completing my degree in Public Health (MPH) focusing on health informatics and analytics.  
@@ -25,7 +25,8 @@ Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of CO
   The analysis concluded that COVID-19 had the highest average and median percentage of death, followed by influenza.These findings highlight the varying mortality profiles of respiratory pathogens and underscore the importance of seasonal factors in influencing influenza mortality. 
   
 **Link to Project** 
-  [Comparing the Impact of Respiratory Viruses](https://github.com/kcox01/kcox-portfolio/blob/main/my-project)  
+  [Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of COVID-19, Influenza, and Respiratory Syncytial Virus (RSV) in the 
+US](https://github.com/kcox01/kcox-portfolio/blob/main/RAfinalproject.pdf)
 
 
 ## Education 
