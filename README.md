@@ -16,13 +16,13 @@ This repository is a collection of my personal and academic projects, showcasing
 Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of COVID-19, Influenza, and Respiratory Syncytial Virus (RSV) in the US
 
 **Goal**: 
-  ○	This thesis to analyze the weekly death trends for COVID-19, Influenza, and RSV from 2023 to 2025.
+  This thesis to analyze the weekly death trends for COVID-19, Influenza, and RSV from 2023 to 2025.
 
-**Technolgy** 
-  ○ Tidyverse   
+**Technolgy**:
+  Tidyverse   
 
-**Results**
-  ○ Theanalysis concluded that COVID-19 had the highest average and median percentage of death, followed by influenza.These findings highlight the varying mortality profiles of respiratory pathogens and underscore the importance of seasonal factors in influencing influenza mortality. 
+**Results**:
+  Theanalysis concluded that COVID-19 had the highest average and median percentage of death, followed by influenza.These findings highlight the varying mortality profiles of respiratory pathogens and underscore the importance of seasonal factors in influencing influenza mortality. 
   
 **Link to Project** 
   [Comparing the Impact of Respiratory Viruses](https://github.com/kcox01/kcox-portfolio/blob/main/my-project)  
