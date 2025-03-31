@@ -29,8 +29,8 @@ Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of CO
 
 
 ## Education 
-**The George Washington University 
-- Masters of Public Health,Health Informatics and Analytics, August 2022-current 
+The George Washington University 
+- Masters of Public Health- Health Informatics and Analytics, August 2022-current 
 - Bachelors of Science- Public Health, minor in Law and Society, August 2020- May 2024 
 
 ## Contact 
