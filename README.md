@@ -16,7 +16,8 @@ This repository is a collection of my personal and academic projects, showcasing
 Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of COVID-19, Influenza, and Respiratory Syncytial Virus (RSV) in the US
 
 **Goal**: 
-  This thesis to analyze the weekly death trends for COVID-19, Influenza, and RSV from 2023 to 2025.
+  Using the CDC Provisional Death Percentages for COVID-19, Influenza, and RSV 2023-2025 dataset, this project seeks to analyze the weekly death trends for COVID-19, Influenza, and RSV. 
+
 
 **Technolgy**:
   Tidyverse   
