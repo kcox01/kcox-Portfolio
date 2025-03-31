@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dda47bb8-008b-4492-b7a9-0748f3e6499b)## kcox-portfolio
+## kcox-portfolio
 
 ## About This Portfolio 
 Hello, I'm Kaylin and welcome to my data analytics portfolio! I have a Public Health background and currently, I am on track to completing my degree in Public Health (MPH) focusing on health informatics and analytics.  
