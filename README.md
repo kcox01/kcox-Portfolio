@@ -22,7 +22,7 @@ Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of CO
   Tidyverse   
 
 **Results**:
-  Theanalysis concluded that COVID-19 had the highest average and median percentage of death, followed by influenza.These findings highlight the varying mortality profiles of respiratory pathogens and underscore the importance of seasonal factors in influencing influenza mortality. 
+  The analysis concluded that COVID-19 had the highest average and median percentage of death, followed by influenza.These findings highlight the varying mortality profiles of respiratory pathogens and underscore the importance of seasonal factors in influencing influenza mortality. 
   
 **Link to Project** 
   [Comparing the Impact of Respiratory Viruses](https://github.com/kcox01/kcox-portfolio/blob/main/my-project)  
