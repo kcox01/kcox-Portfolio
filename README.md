@@ -18,7 +18,7 @@ Comparing the Impact of Respiratory Viruses: Analyzing Weekly Death Trends of CO
 **Goal**: 
   Using the CDC Provisional Death Percentages for COVID-19, Influenza, and RSV 2023-2025 dataset, to analyze the weekly death trends for COVID-19, Influenza, and RSV. 
 
-**Technolgy**:
+**Technology**:
   Tidyverse   
 
 **Results**:
@@ -35,7 +35,7 @@ The George Washington University
 - Bachelors of Science- Public Health, minor in Law and Society, August 2020- May 2024 
 
 ## Contact 
-Email: [kaybc2020@gmail.com] 
+Email: kaybc2020@gmail.com 
 
 
 
