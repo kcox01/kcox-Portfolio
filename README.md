@@ -1,4 +1,4 @@
-## Kaylin Cox's Portfolio
+## Kaylin Cox- Data Analyst Portfolio
 
 ## About This Portfolio 
 Hello, I'm Kaylin and welcome to my data analytics portfolio! I have a Public Health background and currently, I am on track to completing my degree in Public Health (MPH) focusing on health informatics and analytics.  
